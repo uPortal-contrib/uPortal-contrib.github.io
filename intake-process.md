@@ -1,4 +1,4 @@
-#####Table of Contents
+##### Table of Contents
 - [Simplified Intake Process](#simple)
    - [Narrative Version](#narrative)
    - [In Bullet Format](#bullet)
