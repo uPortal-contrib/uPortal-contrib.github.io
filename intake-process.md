@@ -1,4 +1,12 @@
-[TOC]
+#####Table of Contents
+- [Simplified Intake Process](#simple)
+   - [Narrative Version](#narrative)
+   - [In Bullet Format](#bullet)
+- [Detailed Intake Process vs. Apereo Incubation Process](#detail)
+   - [S2 Intake Process Overview](#s2)
+   - [S3 Core Intake Process](#s3)
+   - [S4 Exit Criteria](#s4)
+
 
 This is an intake process for sub-projects that are intended to be part of the greater uPortal Ecosystem. 
 By virtue of being a sub-project, certain stipulations are accepted that allow this process to be easier and more
@@ -31,8 +39,10 @@ Stipulations:
 *   For consideration
     *   Encouraged to use other uPortal-related infrastructure
 
+<a name="simple"></a>
 ## Simplified Intake Process
 
+<a name="narrative"></a>
 ### Narrative Version
 
 This is an intake process for sub-projects that are intended to be part of the greater uPortal Ecosystem. By virtue of
@@ -79,6 +89,7 @@ Official sub-projects move to [https://github.com/uportal-project](https://githu
 hand, sub-projects that cease to show activity may move from contrib to the attic and can re-enter the intake process
 at a later point if interest and activity returns.
 
+<a name="bullet"></a>
 ### In Bullet Format
 
 1.  Stipulations
@@ -116,10 +127,12 @@ at a later point if interest and activity returns.
     for deciding to move a sub-project to the Attic. The remaining active documented committers on a sub-project can
     vote to request that the Steering Committee take this action.
 
+<a name="detail"></a>
 ## Detailed Intake Process vs. Apereo Incubation Process
 
 The uPortal Intake Process varies from the Apereo Incubation Process in the following ways:
 
+<a name="s2"></a>
 ### S2 Intake Process Overview
 
 2.1 Submissions are sent to the uPortal Steering Committee rather than IWG. Further references to IWG can be replaced
@@ -127,6 +140,7 @@ The uPortal Intake Process varies from the Apereo Incubation Process in the foll
 
 2.3 Rather than quarterly updates, uPSC would like at least bi-monthly updates.
 
+<a name="s3"></a>
 ### S3 Core Intake Process
 
 3.1. **Purpose**: This process describes how an uPortal Intake Candidate or other Intake Proposal would progress from
@@ -183,6 +197,7 @@ The uPortal Intake Process varies from the Apereo Incubation Process in the foll
 
 *   This section stands as a sub-project or uPSC may engage IWG and/or board to help with conflict resolution.
 
+<a name="s4"></a>
 ### S4 Exit Criteria
 
 4.1 **Legal**:
