@@ -7,6 +7,7 @@
    - [S3 Core Intake Process](#s3)
    - [S4 Exit Criteria](#s4)
 
+Version 1.0.0.
 
 This is an intake process for sub-projects that are intended to be part of the greater uPortal Ecosystem. 
 By virtue of being a sub-project, certain stipulations are accepted that allow this process to be easier and more
