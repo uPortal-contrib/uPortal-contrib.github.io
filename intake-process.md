@@ -6,6 +6,8 @@
    - [S2 Intake Process Overview](#s2)
    - [S3 Core Intake Process](#s3)
    - [S4 Exit Criteria](#s4)
+- [Meta](#meta)
+   - [Versioning](#versioning)
 
 Version 1.0.0.
 
@@ -227,3 +229,14 @@ The uPortal Intake Process varies from the Apereo Incubation Process in the foll
 *   Sub-project shall be hosted with the other uPortal sub-projects, currently at GitHub.
 *   GitHub docs are used in lieu of a project website.
 
+<a name="meta"></a>
+## Meta
+
+<a name="versioning"></a>
+#### Versioning
+
+Semantically versioned.
+
+Fixes that do not change the process are patch-level changes. Changes beyond
+fixes are minor-level changes. Changes that amount to a new, incompatible
+process are major changes.
