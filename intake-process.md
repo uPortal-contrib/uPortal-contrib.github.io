@@ -8,6 +8,7 @@
    - [S4 Exit Criteria](#s4)
 - [Meta](#meta)
    - [Versioning](#versioning)
+   - [History](#history)
 
 Version 1.0.0.
 
@@ -240,3 +241,8 @@ Semantically versioned.
 Fixes that do not change the process are patch-level changes. Changes beyond
 fixes are minor-level changes. Changes that amount to a new, incompatible
 process are major changes.
+
+<a name="history"></a>
+### History
+
+1.0.0 : initial named version (~2018-05-21)
